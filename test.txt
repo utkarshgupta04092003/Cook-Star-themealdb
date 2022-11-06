@@ -1,0 +1,6 @@
+add this to meal image to find particular meal deatails
+id="${resJson.meals[0].idMeal}" onclick="searchById(this);"
+
+Add this to ingradient image to find particular Ingredients details
+id="${resJson.meals[0].strMeal}" onclick="searchByIngredients(this);"
+

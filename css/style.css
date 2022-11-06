@@ -1,0 +1,11 @@
+/* .border{
+    border: 2px solid red;
+} */
+
+*{
+    scroll-behavior: smooth;
+}
+
+th, td {
+    border-color: #191b1b;
+  }
