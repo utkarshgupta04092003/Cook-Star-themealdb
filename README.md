@@ -12,8 +12,8 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
    - [Favorite Meals](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#favorite-meals)
    - [Search Meal By Country](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#search-by-country)
    - [Search Meal By First Letter](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#search-by-first-letter)
-   - [Add to Favorites]
-   - [Remove from Favorites]
+   - [Add to Favorites](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#add-to-favorite-alert)
+   - [Remove from Favorites](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#remove-from-favorite-alert)
  * [Features](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#features)
  * [Technology Used](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#technology-used)
  * [Tools Used](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#tools-used)
@@ -56,7 +56,7 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
 ![image](https://user-images.githubusercontent.com/63789702/200624903-b38c22e0-c03e-4ce4-88f4-36fa50b496e1.png)
 
 ###### Remove From Favorite Alert
-![image](https://user-images.githubusercontent.com/63789702/200625079-8d0d86c5-382c-4229-b2c0-2ae293880505.png)
+![image](![image](https://user-images.githubusercontent.com/63789702/200625449-f596e677-e7d6-4a81-b225-f3927289c8dc.png))
 
 
 
