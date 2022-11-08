@@ -1,8 +1,8 @@
 # Cook-Star-themealdb
 An awesome Project based on open, crowd-sourced database of Recipes from around the world (themealdb).
 
-## Table Contents
- * Overview
+## Table of Contents
+ * [Overview](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#overview)
  * API Link
  * Screenshots
    - Home Page
