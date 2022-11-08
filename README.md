@@ -56,7 +56,7 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
 ![image](https://user-images.githubusercontent.com/63789702/200624903-b38c22e0-c03e-4ce4-88f4-36fa50b496e1.png)
 
 ###### Remove From Favorite Alert
-![image](![image](https://user-images.githubusercontent.com/63789702/200625449-f596e677-e7d6-4a81-b225-f3927289c8dc.png))
+![image](https://user-images.githubusercontent.com/63789702/200625449-f596e677-e7d6-4a81-b225-f3927289c8dc.png)
 
 
 
