@@ -3,21 +3,23 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
 
 ## Table of Contents
  * [Overview](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#overview)
- * API Link
- * Screenshots
-   - Home Page
-   - Search Meal By Name 
-   - Meal Details Page
-   - Ingredient in Meals Page
-   - Favorite Meals
-   - Search Meal By Country
-   - Search Meal By First Letter
- * Features
- * Technology Used
- * Tools Used
- * Author
- * Acknowledgement
- * Deploy Link
+ * [API Link](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#api-link)
+ * [Screenshots](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#screenshots)
+   - [Home Page](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#home-page)
+   - [Search Meal By Name](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#search-meal-by-name) 
+   - [Meal Details Page](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#meal-details-page)
+   - [Ingredient in Meals Page](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#ingredient-in-meals-page)
+   - [Favorite Meals](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#favorite-meals)
+   - [Search Meal By Country](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#search-by-country)
+   - [Search Meal By First Letter](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#search-by-first-letter)
+   - [Add to Favorites]
+   - [Remove from Favorites]
+ * [Features](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#features)
+ * [Technology Used](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#technology-used)
+ * [Tools Used](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#tools-used)
+ * [Author](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#author)
+ * [Acknowledgement](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#acknowledgement)
+ * [Deploy Link](https://github.com/utkarshgupta04092003/Cook-Star-themealdb/blob/main/README.md#deploy-link)
  
  
  ## Overview
@@ -50,6 +52,14 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
  ###### Search by First Letter
 ![image](https://user-images.githubusercontent.com/63789702/200617239-d87c0be7-5439-4c27-a9c4-eef29344b76a.png)
 
+###### Add to Favorite Alert
+![image](https://user-images.githubusercontent.com/63789702/200624903-b38c22e0-c03e-4ce4-88f4-36fa50b496e1.png)
+
+###### Remove From Favorite Alert
+![image](https://user-images.githubusercontent.com/63789702/200625079-8d0d86c5-382c-4229-b2c0-2ae293880505.png)
+
+
+
 
 ## Features
 * Latest Meals
@@ -68,6 +78,7 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
 * Tailwind CSS
 * Vanilla JavaScript
 * The Meal DB API
+* Sweet Alert
 
 ## Tools Used
 * VS Code
@@ -82,6 +93,7 @@ An awesome Project based on open, crowd-sourced database of Recipes from around 
 ## Acknowledgement
 * This Project is build by Utkarsh Gupta
 * Copy Rights of All the Data used in this project is Reserved by [TheMealDB](https://www.themealdb.com/). 
+* All Interactive alert is build by [Sweet Alert](https://sweetalert.js.org/guides/)
 
 ## Deploy Link
 * [Click Here](http://utprojects.epizy.com/themealdb/index.html)
